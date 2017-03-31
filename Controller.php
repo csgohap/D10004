@@ -119,7 +119,6 @@ class Controller extends BaseController {
       \Hybrid_Endpoint::process();
 
 
-
   } // конец getIndex()
 
 
